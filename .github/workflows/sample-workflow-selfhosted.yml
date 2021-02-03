@@ -1,7 +1,7 @@
 # sample-workflow-windows-latest
 # docs are in the repo
 
-name: OSSAR windows-latest
+name: OSSAR self-hosted
 on:
   push:
     branches:
