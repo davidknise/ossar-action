@@ -2,10 +2,7 @@
 # docs are in the repo
 
 name: OSSAR self-hosted
-on:
-  push:
-    branches:
-      - main
+on: push
 
 jobs:
   sample:
